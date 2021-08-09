@@ -17,6 +17,7 @@ Welcome to my page. Contact me via jwsohn00@gmail.com
    4. three
 2. and more
 3. Alphabetized enumeration?
+4. Some more editings
 
 $$ a = b + c + \sqrt{2}$$ 
 
